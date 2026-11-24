@@ -1,0 +1,42 @@
+Item	Wikimedia Commons file	Creator	License	License URL	Source page
+Steamed Rice	File:Meshi 001.jpg	Ocdp	CC0	http://creativecommons.org/publicdomain/zero/1.0/deed.en	https://commons.wikimedia.org/wiki/File:Meshi_001.jpg
+Veg Fried Rice	File:Vegetable Fried Rice.jpg	Gaurav Dhwaj Khadka	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Vegetable_Fried_Rice.jpg
+Egg Fried Rice	File:Egg Fried Rice.jpg	Gaurav Dhwaj Khadka	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Egg_Fried_Rice.jpg
+Chicken Fried Rice	File:Fried Rice with Fried Chicken.jpg	BobbySire	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Fried_Rice_with_Fried_Chicken.jpg
+Chicken Biryani	File:Chicken Dum Biryani 03.jpg	Vis M	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Chicken_Dum_Biryani_03.jpg
+Veg Thali	File:Vegetarian Thali 4.jpg	Ganesh Mohan T	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Vegetarian_Thali_4.jpg
+Egg Thali	File:Egg Curry Thali.jpg	Amol Sinha	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Egg_Curry_Thali.jpg
+Chicken Thali	File:Chicken Thali Kolhapuri.jpg	Sureshkhole	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Chicken_Thali_Kolhapuri.jpg
+Veg Chowmein	File:Veg Chowmein Indian Style!.jpg	Nami Verma	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Veg_Chowmein_Indian_Style!.jpg
+Egg Chowmein	File:Veg Chowmein with Fried Egg - Kolkata - West Bengal - Pic04.jpg	Pmani1	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Veg_Chowmein_with_Fried_Egg_-_Kolkata_-_West_Bengal_-_Pic04.jpg
+Chicken Chowmein	File:Chicken Chowmein.jpg	Dibyadarsi Nayak	CC BY-SA 3.0	https://creativecommons.org/licenses/by-sa/3.0	https://commons.wikimedia.org/wiki/File:Chicken_Chowmein.jpg
+Chilli Chicken	File:Chicken Chilli 1.jpg	Gaurav Dhwaj Khadka	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Chicken_Chilli_1.jpg
+Veg Manchurian	File:IndianPlatedVegManchurianCurry.jpg	HungryKya	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:IndianPlatedVegManchurianCurry.jpg
+Veg Burger	File:Vegetable Burger of Salem.jpg	Thamizhpparithi Maari	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Vegetable_Burger_of_Salem.jpg
+Chicken Burger	File:Chargrilled Chicken Burger - Leon.jpg	Andy Li	CC0	http://creativecommons.org/publicdomain/zero/1.0/deed.en	https://commons.wikimedia.org/wiki/File:Chargrilled_Chicken_Burger_-_Leon.jpg
+Veg Sandwich	File:Vegetable Sandwich 2.jpg	Ganesh Mohan T	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Vegetable_Sandwich_2.jpg
+Chicken Sandwich	File:BK Original Chicken Sandwich.JPG	BrokenSphere	CC BY-SA 3.0	https://creativecommons.org/licenses/by-sa/3.0	https://commons.wikimedia.org/wiki/File:BK_Original_Chicken_Sandwich.JPG
+French Fries	File:McDonald's French Fries, Canada, 2026-04-04.jpg	Chris Woodrich	Public domain		https://commons.wikimedia.org/wiki/File:McDonald%27s_French_Fries,_Canada,_2026-04-04.jpg
+Veg Pizza	File:Vegetarian Pizza.jpg	Petar Milošević	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Vegetarian_Pizza.jpg
+Veg Roll	File:Paneer kathi roll homemade.jpg	Shafana jasmine	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Paneer_kathi_roll_homemade.jpg
+Egg Roll	File:EGG ROLL.JPG	Satadaldas1966	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:EGG_ROLL.JPG
+Chicken Roll	File:Chicken roll 2.jpg	Harpreet 712	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Chicken_roll_2.jpg
+Veg Momos	File:Steamed Momos - KOLKATA.jpg	TAPAS KUMAR HALDER	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Steamed_Momos_-_KOLKATA.jpg
+Chicken Momos	File:A plate of Chicken Momos with soup.jpg	Tulsi Bhagat	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:A_plate_of_Chicken_Momos_with_soup.jpg
+Samosa	File:Bangladeshi street food Samosa and Puri.jpg	Borhan	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Bangladeshi_street_food_Samosa_and_Puri.jpg
+Bread Omelette	File:Bread Omelette 6.jpg	Gannu03	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Bread_Omelette_6.jpg
+Boiled Eggs	File:Boiled Eggs -Kolkata.jpg	TAPAS KUMAR HALDER	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Boiled_Eggs_-Kolkata.jpg
+Maggi	File:Maggi Bowl.jpg	Mrudit161187	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Maggi_Bowl.jpg
+Aloo Paratha	File:Aloo Paratha (96238).jpg	Gannu03	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Aloo_Paratha_(96238).jpg
+Milk Tea	File:Masala Milk Tea 2.jpg	Gaurav Dhwaj Khadka	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Masala_Milk_Tea_2.jpg
+Masala Tea	File:Masala Tea - 2.jpg	Sarkar Sayantan	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Masala_Tea_-_2.jpg
+Black Coffee	File:Black Coffee Nepali.jpg	Gunjan Raj Giri	CC0	http://creativecommons.org/publicdomain/zero/1.0/deed.en	https://commons.wikimedia.org/wiki/File:Black_Coffee_Nepali.jpg
+Milk Coffee	File:Milk Coffee 2.jpg	Gaurav Dhwaj Khadka	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Milk_Coffee_2.jpg
+Cold Coffee	File:Homemade Cold Coffee(Indian Style)- Kolkata.jpg	TAPAS KUMAR HALDER	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Homemade_Cold_Coffee(Indian_Style)-_Kolkata.jpg
+Mango Juice	File:Fresh-mango-smoothie 01.jpg	Vivekpat30	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Fresh-mango-smoothie_01.jpg
+Lemon Soda	File:Nimbu Soda Or Lemon Soda.jpg	Manjeshwari poet mysore	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Nimbu_Soda_Or_Lemon_Soda.jpg
+Packaged Water	File:Aqua Blue 200ml Premium Packaged Drinking Water.jpg	Ravitave	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Aqua_Blue_200ml_Premium_Packaged_Drinking_Water.jpg
+Soft Drinks	File:Soft drink shelf 2.jpg	Wilfredor	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Soft_drink_shelf_2.jpg
+Chocolate Pastry	File:Piece of chocolate cake on a white plate decorated with chocolate sauce.jpg	Daria Yakovleva Minor edits made by Subsidiary account	CC0	http://creativecommons.org/publicdomain/zero/1.0/deed.en	https://commons.wikimedia.org/wiki/File:Piece_of_chocolate_cake_on_a_white_plate_decorated_with_chocolate_sauce.jpg
+Gulab Jamun	File:Gulab Jamun as a Diwali Sweet.jpg	Yakshitha	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Gulab_Jamun_as_a_Diwali_Sweet.jpg
+Vanilla Ice Cream	File:Bowl ~ Ice cream.jpg	Mitchellhobbs	CC BY-SA 4.0	https://creativecommons.org/licenses/by-sa/4.0	https://commons.wikimedia.org/wiki/File:Bowl_~_Ice_cream.jpg

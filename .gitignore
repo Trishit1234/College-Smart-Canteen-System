@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+__pycache__/
+*.py[cod]
+db.sqlite3
+backend/media/food/uploads/
+.pytest_cache/
+.venv/
+frontend/node_modules/
